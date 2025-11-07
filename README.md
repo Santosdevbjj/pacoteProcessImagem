@@ -1,10 +1,21 @@
 # Criando um Pacote de Processamento de Imagens com Python.
 
 
-....
+![SuzanoPython003](https://github.com/user-attachments/assets/171946bf-d9f2-4ade-8213-b16500fec681)
+
 
 
 ---
+
+**DESCRIÇÃO:** 
+
+Neste projeto você aprenderá a criar o seu primeiro pacote de processamento de imagens em Python e disponibilizá-lo no repositório Pypi. 
+
+Assim você poderá reutilizá-lo facilmente e compartilhá-lo com outras pessoas. 
+
+
+---
+
 
 
 🖼️ **pacoteProcessImagem**
