@@ -7,11 +7,7 @@
 ---
 
 
-
-```markdown
-```
-
-# 🖼️ **pacoteProcessImagem**
+🖼️ **pacoteProcessImagem**
 
 Pacote Python desenvolvido por **Sérgio Santos** para **processamento básico de imagens**, com funções para redimensionamento, conversão em tons de cinza e aplicação de filtros simples.
 
