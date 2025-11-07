@@ -30,6 +30,9 @@ python -m src.pacote_process_imagem.demo
    ```bash
    python -m pip install --upgrade pip setuptools wheel twine
 
+```
+
+
 2. Gere as distribuições:
 
 python setup.py sdist bdist_wheel
