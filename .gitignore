@@ -1,0 +1,43 @@
+---
+
+## ⚙️ **`.gitignore`**
+```gitignore
+# Arquivos e pastas gerados automaticamente
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+
+# Ambientes virtuais
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# Logs e caches
+*.log
+.cache/
+.tox/
+.mypy_cache/
+pytest_cache/
+.coverage
+htmlcov/
+
+# Distribuições e builds
+build/
+dist/
+*.egg-info/
+*.egg
+
+# IDEs e sistemas operacionais
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.bak
+*.tmp
